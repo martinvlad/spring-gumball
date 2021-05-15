@@ -1,11 +1,11 @@
 # Lab 10 - DevOps CI/CD
 
-### Part 1 (CI)
+## Part 1 (CI)
 For part 1, I created a CI workflow and once I pushed a commit, this triggered the action.
 <img width="1400" alt="part1CIworkflow" src="https://user-images.githubusercontent.com/36089262/118377404-e27a3300-b581-11eb-9434-46c7dda3c1e0.png">
 
 
-### Part 2 (CD)
+## Part 2 (CD)
 
 I first begin by creating all the necessary secrets in my workspace, one of them being the GKE_PROJECT and the other being GKE_SA_KEY. To do so, I need to go to GCP Service Accounts and create an account.
 

@@ -24,7 +24,7 @@ I then proceed to deploy to GKE with a release.
 Continuing to build to deploy on GKE.
 <img width="1440" alt="gke_build" src="https://user-images.githubusercontent.com/36089262/118378917-bd8abd80-b58b-11eb-8ec2-4f199de7126b.png">
 
-
+On version 2.4 I ran into an issue of setting permissions to the service account, so when I added them in 2.5, it worked and I successfully deployed.
 
 
 

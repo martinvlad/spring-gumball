@@ -18,6 +18,9 @@ I first begin by creating all the necessary secrets in my workspace, one of them
 I then enter both of these secrets in my github project secrets settings.
 <img width="1440" alt="gke_project_gke_sa_key" src="https://user-images.githubusercontent.com/36089262/118378884-89170180-b58b-11eb-87dd-40cecd23e978.png">
 
+First, I make sure I have my cluster up and running.
+<img width="1440" alt="cluster" src="https://user-images.githubusercontent.com/36089262/118380211-ebc0cb00-b594-11eb-86e8-4f0db6fb74f9.png">
+
 I then proceed to deploy to GKE with a release.
 <img width="1440" alt="gke_deploy" src="https://user-images.githubusercontent.com/36089262/118378912-b499ec00-b58b-11eb-810d-2eccbbc74d38.png">
 

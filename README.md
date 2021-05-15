@@ -36,5 +36,10 @@ Workloads
 Finally, we create a load balancer.
 <img width="1440" alt="spring-gumball-lb" src="https://user-images.githubusercontent.com/36089262/118379720-4c4e0900-b591-11eb-8599-3581e7e577af.png">
 
+Successful creation.
+<img width="1440" alt="Ingress_details" src="https://user-images.githubusercontent.com/36089262/118379827-6cca9300-b592-11eb-884d-ec347748f09a.png">
+
+
+<img width="1439" alt="ingress_successful" src="https://user-images.githubusercontent.com/36089262/118379817-5cb2b380-b592-11eb-9103-9d6b2c8d6e0a.png">
 
 

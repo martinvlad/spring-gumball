@@ -26,5 +26,13 @@ Continuing to build to deploy on GKE.
 
 On version 2.4 I forgot to set permissions to the service account, so the build failed. However, once I added them in 2.5, it worked and I successfully deployed to GKE.
 
+Services and Ingress
+<img width="1440" alt="services_and_ingress" src="https://user-images.githubusercontent.com/36089262/118379723-5b34bb80-b591-11eb-9b74-32de7c91c613.png">
+Workloads
+<img width="1440" alt="workloads" src="https://user-images.githubusercontent.com/36089262/118379727-62f46000-b591-11eb-9fd6-6a63c189fe28.png">
+
+Finally, we create a load balancer.
+<img width="1440" alt="spring-gumball-lb" src="https://user-images.githubusercontent.com/36089262/118379720-4c4e0900-b591-11eb-8599-3581e7e577af.png">
+
 
 
